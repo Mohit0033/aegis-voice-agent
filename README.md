@@ -4,12 +4,33 @@
 
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 ![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USER/aegis-voice-agent/blob/main/notebooks/colab_launcher.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mohit0033/aegis-voice-agent/blob/main/notebooks/colab_launcher.ipynb)
 
 <!-- Add a 60-90 s demo GIF/video here: a real call with the live dashboard beside it. -->
 <!-- ![demo](docs/demo.gif) -->
 
-Built for [M.A. Creations](https://b2b.macreations.in), a wooden-handicrafts manufacturer in Noida, to replace manual cold-calling of wholesale buyers. n8n triggers a call, the agent talks to the buyer, and when the call ends the outcome lands in Twenty CRM.
+Built for a wooden-handicrafts manufacturer in Noida, to replace manual cold-calling of wholesale buyers. n8n triggers a call, the agent talks to the buyer, and when the call ends the outcome lands in Twenty CRM.
+
+## Built with
+
+<table align="center">
+  <tr>
+    <td align="center" width="110"><a href="https://github.com/livekit/agents"><img src="https://github.com/livekit.png?size=96" height="48" alt="LiveKit"><br><sub>LiveKit</sub></a></td>
+    <td align="center" width="110"><a href="https://github.com/vllm-project/vllm"><img src="https://github.com/vllm-project.png?size=96" height="48" alt="vLLM"><br><sub>vLLM</sub></a></td>
+    <td align="center" width="110"><a href="https://ai.google.dev/gemma"><img src="https://github.com/google.png?size=96" height="48" alt="Gemma"><br><sub>Gemma</sub></a></td>
+    <td align="center" width="110"><a href="https://huggingface.co/SPRINGLab/Indic-Mio"><img src="https://github.com/huggingface.png?size=96" height="48" alt="Hugging Face"><br><sub>Indic-Mio</sub></a></td>
+    <td align="center" width="110"><a href="https://n8n.io"><img src="https://github.com/n8n-io.png?size=96" height="48" alt="n8n"><br><sub>n8n</sub></a></td>
+    <td align="center" width="110"><a href="https://twenty.com"><img src="https://github.com/twentyhq.png?size=96" height="48" alt="Twenty CRM"><br><sub>Twenty CRM</sub></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="110"><a href="https://github.com/FreePBX"><img src="https://github.com/FreePBX.png?size=96" height="48" alt="FreePBX"><br><sub>FreePBX</sub></a></td>
+    <td align="center" width="110"><a href="https://tailscale.com"><img src="https://github.com/tailscale.png?size=96" height="48" alt="Tailscale"><br><sub>Tailscale</sub></a></td>
+    <td align="center" width="110"><a href="https://fastapi.tiangolo.com"><img src="https://github.com/fastapi.png?size=96" height="48" alt="FastAPI"><br><sub>FastAPI</sub></a></td>
+    <td align="center" width="110"><a href="https://www.python.org"><img src="https://github.com/python.png?size=96" height="48" alt="Python"><br><sub>Python</sub></a></td>
+    <td align="center" width="110"><a href="https://www.whatsapp.com"><img src="https://cdn.simpleicons.org/whatsapp/25D366" height="48" alt="WhatsApp"><br><sub>WhatsApp</sub></a></td>
+    <td align="center" width="110"><a href="https://colab.research.google.com"><img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="48" alt="Google Colab"><br><sub>Google Colab</sub></a></td>
+  </tr>
+</table>
 
 ## Why it is interesting
 
