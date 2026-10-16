@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+*.so
+*.wav
+!docs/**/*.wav
+*.jsonl
+outbox/
+tts_debug/
+.ipynb_checkpoints/
+.pytest_cache/
+.ruff_cache/

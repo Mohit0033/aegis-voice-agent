@@ -1,0 +1,12 @@
+# Agent worker + dialer + dashboard (the Gemma/vLLM and Mio environments are built separately by the launcher notebook).
+# Pin exact versions after your first working run:  pip freeze | grep -iE "^(livekit|fastapi|uvicorn|httpx|scipy|numpy)"
+livekit-agents
+livekit-plugins-silero
+livekit-plugins-openai
+livekit-api
+scipy
+numpy
+httpx
+fastapi
+uvicorn
+pydantic
